@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+}
+
+group 'io.turntabl'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+
+//create a single Jar with all dependencies
+task fatJar(type: Jar) {
+    manifest {
+        attributes 'Implementation-Title': 'My Twitter SOurce Jar',
+                'Implementation-Version': version,
+                'Main-Class': 'io.turntabl.Main'
+    }
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.apache.flume', name: 'flume-ng-core', version: '1.9.0'
+    compile group: 'org.apache.flume', name: 'flume-ng-sdk', version: '1.9.0'
+    compile group: 'org.apache.flume', name: 'flume-ng-configuration', version: '1.9.0'
+    compile group: 'org.apache.flume.flume-ng-sinks', name: 'flume-hdfs-sink', version: '1.9.0'
+    compile group: 'org.twitter4j', name: 'twitter4j-core', version: '4.0.7'
+}
