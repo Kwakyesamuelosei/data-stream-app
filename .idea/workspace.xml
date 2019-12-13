@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e046c1a-725e-4289-bb8a-bd8a371dfe9c" name="Default Changelist" comment="" />
+    <list default="true" id="5e046c1a-725e-4289-bb8a-bd8a371dfe9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/turntabl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/io/turntabl/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/turntabl/MyTwitterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/io/turntabl/MyTwitterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/my-twitter-source-agent-all-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/my-twitter-source-agent-all-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/turntabl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/turntabl/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/turntabl/MyTwitterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/turntabl/MyTwitterController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,10 +72,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Ut5EhR4MIN7A761ZGDX9ES6SdG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -69,6 +87,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Gradle.my-twitter-source-agent [jar]">
     <configuration name="my-twitter-source-agent [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -229,29 +248,29 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="125" width="1166" height="543" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1576165806713" />
-    <state width="1320" height="202" key="GridCell.Tab.0.bottom" timestamp="1576228979655">
+    <state width="1320" height="202" key="GridCell.Tab.0.bottom" timestamp="1576236101971">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="202" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576228979655" />
-    <state width="1320" height="202" key="GridCell.Tab.0.center" timestamp="1576228979654">
+    <state width="1320" height="202" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576236101971" />
+    <state width="1320" height="202" key="GridCell.Tab.0.center" timestamp="1576236101971">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="202" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576228979654" />
-    <state width="1320" height="202" key="GridCell.Tab.0.left" timestamp="1576228979654">
+    <state width="1320" height="202" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576236101971" />
+    <state width="1320" height="202" key="GridCell.Tab.0.left" timestamp="1576236101970">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="202" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576228979654" />
-    <state width="1320" height="202" key="GridCell.Tab.0.right" timestamp="1576228979654">
+    <state width="1320" height="202" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576236101970" />
+    <state width="1320" height="202" key="GridCell.Tab.0.right" timestamp="1576236101971">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="202" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576228979654" />
-    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576173471062">
+    <state width="1320" height="202" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576236101971" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576248514914">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576173471062" />
-    <state x="347" y="175" key="run.anything.popup" timestamp="1576219763250">
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576248514914" />
+    <state x="347" y="175" key="run.anything.popup" timestamp="1576252696783">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1576219763250" />
+    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1576252696783" />
   </component>
 </project>
